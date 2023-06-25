@@ -1,0 +1,147 @@
+---
+title: "Data Science Tools and Ecosystem"
+author: "Ana Gabriela Alferez Pacotico"
+date: "6/24/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r introduction}
+
+```
+
+## Introduction
+
+This notebook purpose it to submit the assignments required for Data Science Tools and Ecosystem.
+
+For instance working with :
+
+- Data Science tools.
+- Machine Learning libraries.
+- Data Science statistical useful libraries.
+
+Some of the popular languages for Data Scientist are:
+1.Python
+2.R
+3.SQL
+4.Java
+5.C++
+6.C
+7.JavaScript
+8.Julia
+
+
+Some of the libraries used by Data Scientists are:
+
+Pandas.
+NumPy.
+Matplotlib.
+Keras.
+SciKit-Learn.
+PyTorch.
+BeautifulSoup.
+LightGBM.
+TensorFlow.
+
+
+
+Tools for Data Science:
+
+* TensorFlow
+* Excel
+* Hadoop
+* Apache
+* RapidMiner
+* SAS
+* Jupyter
+* NLTK
+* Anaconda
+* Taleau
+* Power BI
+* BigML
+* Matlab
+* QlikView
+
+
+
+```{r}
+```
+#Arithmetic operations
+##Examples of basic arithmetic operations
+```{r}
+#Arithmetic operations
+X <- 8 + 9
+eval(X)
+
+Y <- 10 + 29
+eval(Y)
+```
+
+
+```{r}
+# Exercise 8 - multiplyandadintegers.png
+
+Z <- 4*4+4
+eval(Z)
+
+Z1 <- (1*2)+3
+eval(Z1)
+```
+```{r}
+#This code will convert 120 minutes to hours.
+mins <- 1
+hours <- 60*mins
+
+
+A <- 120
+B <- A / hours
+eval(B)
+```
+```{r}
+#Exercise 10 -Insert a markdown cell to list Objectives. (3 pts)
+
+```
+List of Objectives
+* Learn about data science common tools and useful packages.
+* Understand the differences between softwares for data science.
+* Using R for statistical analysis and applying some functions to practice.
+* Analyzing the best software or tool before working on a data science project or case.
+* Identyfing the origins and purpose of some useful data science tool.
+
+```{r}
+#Author info
+
+```
+Author:
+
+Ana Gabriela , Alferez Pacotico
+
+```{r}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
